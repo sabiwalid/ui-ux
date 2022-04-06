@@ -1,26 +1,32 @@
 [
     {
         "name": "WebStudio",
-        "banner": "https://github.com/sabiwalid/ui-ux/blob/main/ui:ux/webstudio.png?raw=true"
+        "banner": "https://github.com/sabiwalid/ui-ux/blob/main/ui:ux/webstudio.png?raw=true",
+        "url": "https://xd.adobe.com/view/b22e00de-97bc-4896-9422-381e5c7e56ad-e77d/"
     },
     {
         "name": "RoadMap",
-        "banner": "https://github.com/sabiwalid/ui-ux/blob/main/ui:ux/roadmap.png?raw=true"
+        "banner": "https://github.com/sabiwalid/ui-ux/blob/main/ui:ux/roadmap.png?raw=true",
+        "url": "https://xd.adobe.com/view/58c5ca75-e3b7-4f71-bf2c-c6be6eaed39c-0d96/"
     },
     {
         "name": "FinalDesign",
-        "banner": "https://github.com/sabiwalid/ui-ux/blob/main/ui:ux/finalDesign.png?raw=true"
+        "banner": "https://github.com/sabiwalid/ui-ux/blob/main/ui:ux/finalDesign.png?raw=true",
+        "url": "https://xd.adobe.com/view/b22e00de-97bc-4896-9422-381e5c7e56ad-e77d/"
     },
     {
         "name": "Model Editor",
-        "banner": "https://github.com/sabiwalid/ui-ux/blob/main/ui:ux/webeditor.png?raw=true"
+        "banner": "https://github.com/sabiwalid/ui-ux/blob/main/ui:ux/webeditor.png?raw=true",
+        "url": "https://xd.adobe.com/view/a7a6c29b-e1cc-468c-a98a-5f4b765d0642-f2f5/"
     },
     {
         "name": "Roles & Privileges",
-        "banner": "https://github.com/sabiwalid/ui-ux/blob/main/ui:ux/roles.png?raw=true"
+        "banner": "https://github.com/sabiwalid/ui-ux/blob/main/ui:ux/roles.png?raw=true",
+        "url": "https://xd.adobe.com/view/f6eb7d32-ad04-4fd5-8a51-95eef19feb73-a3b8/"
     },
     {
         "name": "Icons",
-        "banner": "https://github.com/sabiwalid/ui-ux/blob/main/ui:ux/icons.png?raw=true"
+        "banner": "https://github.com/sabiwalid/ui-ux/blob/main/ui:ux/icons.png?raw=true",
+        "url": "https://www.figma.com/file/ynkNOVHkFo3F4CRAwjjfNW/studio-mood-board.?node-id=0%3A1"
     }
 ]
